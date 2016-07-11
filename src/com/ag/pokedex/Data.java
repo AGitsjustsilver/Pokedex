@@ -10,4 +10,9 @@ public class Data extends Pokemon {
 		super();
 	}
 	
+	public void addPokemon(Pokemon p){
+		pok.add(p);
+	}
+	
+	
 }
