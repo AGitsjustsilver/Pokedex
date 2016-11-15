@@ -2,6 +2,6 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Users/aless/OneDrive/Documents/GitHub/Pokedex/Project/lib/json-20160810.jar" sourcepath="C:/Users/aless/OneDrive/Documents/GitHub/Pokedex/Project/lib/json-20160810.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/json"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
